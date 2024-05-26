@@ -8,6 +8,11 @@ Post no LinkedIn: [E-book JavaScript Town.](https://www.linkedin.com/feed/update
 
 <br>
 
+
+<img src="assets/Capa Ebook.png" alt="Capa do E-Book">
+
+<br>
+
 ChatGPT：
 
 |   Ação   | Prompt |
