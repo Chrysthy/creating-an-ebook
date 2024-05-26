@@ -7,14 +7,29 @@
 
 ChatGPT：
 
-|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | Prompt |
+| :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  Título  | Crie um título de um E-book sobre o tema de JavaScript. O E-book é do nicho de programação e o subnicho é de JavaScript. O título deve ser épico e curto e tenha uma temática de Silent Hill. Me liste 5 variações de títulos.|
 | Conteúdo | Faça um texto para E-book, com foco em JavaScript, listando os principais elementos de sintaxe básica com exemplos em código. |
 
 
 Artbreeder：
 
-|  Ação  | Composer                                                                                 |
+|  Ação  | Composer |
 | :----: | -------------------------------------------------------------------------------------- |
 | Título | Silent Hill Town + Silent Hill picture to merge |
+
+<br>
+
+### 🛠️ Tools Utilized:
+
+* Conteúdo gerado via [ChatGPT.](https://chat.openai.com/) 
+* Imagens geradas via [Artbreede.](https://www.artbreeder.com/create)
+* Criação do E-book via [PowerPoint.](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+<br>
+
+### 📖 Content:
+
+* Imagens utilizadas em `assets`.
+* E-book gerado durante as aulas em `output`.
